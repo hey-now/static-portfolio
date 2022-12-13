@@ -86,7 +86,7 @@ h1, p {
 }
 .parallax {
   /* The image used */
-  background-image: url("/media/spotlight.jpeg");
+  background-image: url("./media/spotlight.jpeg");
   /* Set a specific height */
   min-height: 500px;
 
@@ -117,7 +117,7 @@ h1, p {
 
 .parallax2 {
   /* The image used */
-  background-image: url("/media/code_screen.avif");
+  background-image: url("./media/code_screen.avif");
 
   /* Set a specific height */
   min-height: 500px;
@@ -156,7 +156,7 @@ td {
 }
 .parallax3 {
   /* The image used */
-  background-image: url("/media/oldschool.jpeg");
+  background-image: url("./media/oldschool.jpeg");
 
   /* Set a specific height */
   min-height: 500px;
@@ -269,7 +269,7 @@ td {
   white-space: pre-wrap;
 }
 #instrument {
-  background-image: url("/media/instrument-collector.png");
+  background-image: url("./media/instrument-collector.png");
   background-size: 100%;
   background-size: cover;
   background-repeat: no-repeat;
