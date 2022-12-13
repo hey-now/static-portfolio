@@ -269,7 +269,7 @@ td {
   white-space: pre-wrap;
 }
 #instrument {
-  background-image: url("./media/instrument-collector.png");
+  background-image: url("../media/instrument-collector.png");
   background-size: 100%;
   background-size: cover;
   background-repeat: no-repeat;
