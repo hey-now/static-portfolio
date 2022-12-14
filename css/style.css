@@ -277,7 +277,7 @@ td {
 }
 
 #instrument::after {
-  content: 'Instrument Collector \A \A  Using Python, PostgreSQL and blank... A user centric full CRUD app that allows users to create, update and delete their instrument collection, as well as the accessories and practice sessions. \A \A Hover to View Image  |  Click to Go to Heroku App';
+  content: 'Instrument Collector \A \A  Using Python, PostgreSQL and Django. A user centric full CRUD app that allows users to create, update and delete their instrument collection, as well as the accessories and practice sessions. \A \A Hover to View Image  |  Click to Go to Heroku App';
   white-space: pre-wrap;
 }
 @media only screen and (min-width: 1600px) {
